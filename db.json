@@ -1,44 +1,46 @@
-[
-    {
-        "id": 1,
-        "account": 4545434223,
-        "name": "Nguyen Le",
-        "type": "Tropicana",
-        "amount": "456.35"
-    },
-    {
-        "id": 2,
-        "account": 65345343354,
-        "name": "Blake Wilson",
-        "type": "Tropicana",
-        "amount": "7456.35"
-    },
-    {
-        "id": 3,
-        "account": 7654554643,
-        "name": "Michael Cameron",
-        "type": "Tropicana",
-        "amount": "2456.35"
-    },
-    {
-        "id": 4,
-        "account": 134465657,
-        "name": "Reggie Stevens",
-        "type": "Tropicana",
-        "amount": "9456.35"
-    },
-    {
-        "id": 5,
-        "account": 89678676546,
-        "name": "Nick Finney",
-        "type": "Tropicana",
-        "amount": "4356.35"
-    },
-    {
-        "id": 6,
-        "account": 9865645433,
-        "name": "Shawn Rorick",
-        "type": "Tropicana",
-        "amount": "1456.35"
-    }
-]
+{
+    "users": [
+        {
+            "id": 1,
+            "account": 4545434223,
+            "name": "Nguyen Le",
+            "type": "Caesars",
+            "amount": "14456.35"
+        },
+        {
+            "id": 2,
+            "account": 65345343354,
+            "name": "Blake Wilson",
+            "type": "Caesars",
+            "amount": "17456.35"
+        },
+        {
+            "id": 3,
+            "account": 7654554643,
+            "name": "Michael Cameron",
+            "type": "Caesars",
+            "amount": "12456.35"
+        },
+        {
+            "id": 4,
+            "account": 134465657,
+            "name": "Reggie Stevens",
+            "type": "Caesars",
+            "amount": "19456.35"
+        },
+        {
+            "id": 5,
+            "account": 89678676546,
+            "name": "Nick Finney",
+            "type": "Caesars",
+            "amount": "14356.35"
+        },
+        {
+            "id": 6,
+            "account": 9865645433,
+            "name": "Shawn Rorick",
+            "type": "Caesars",
+            "amount": "21456.35"
+        }
+    ]
+}
